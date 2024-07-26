@@ -5,3 +5,33 @@ A Streamlit-based movie recommendation system that uses TF-IDF vectorization and
 
 ## Domain : 🎥 Entertainment
 
+## Dependencies
+* pandas
+* scikit-learn
+* IMDbPY
+* streamlit
+* pickle
+
+## Features
+* Recommend movies similar to the selected movie
+* Display movie posters and details
+
+## Installation
+1.Clone the repository:
+```
+git clone https://github.com/Gokul170601/Movie-Recommender.git
+cd movierecommender
+```
+2.Install the required packages:
+```
+pip install -r requirements.txt
+```
+
+## Usage
+* Download the necessary files (model.pkl and processed.csv) and place them in the project directory.
+* Run the Streamlit app:
+```
+streamlit run app.py
+
+```
+* Open the app in your browser at http://localhost:8501.
