@@ -36,7 +36,7 @@ streamlit run app.py
 ```
 * Open the app in your browser at http://localhost:8501.
 
-## Contributing
+## Contributions
 
 Contributions to this project are welcome! If you encounter any issues or have suggestions for improvements, please feel free to submit a pull request.
 
